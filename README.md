@@ -140,43 +140,62 @@ This will stop all containers and remove associated volumes.
 ## 🧪 Testing All Functionalities
 
 📸 **(Screenshots Section)**
-_Add relevant screenshots of each tested functionality here before submission._
 
 ✅ **Step-by-step Testing Checklist**:
 
 ### 1. Api Documentation
 - [] Swagger Docs
+![image](https://github.com/user-attachments/assets/b7b72333-d990-40b3-8b78-bd037c324617)
 
 ### 1. Authentication
 - [ ] Login using Google account
+![image](https://github.com/user-attachments/assets/0fa63097-11eb-40f8-9aa3-b9d6078576f3)
+
 - [ ] Avatar (Google profile picture) is loaded
+![image](https://github.com/user-attachments/assets/a87bfaec-b307-422b-aee6-131d8a3afb0c)
+
 
 ### 2. Dashboard
 - [ ] View current leave balance
 - [ ] Display upcoming holidays
-- [ ] Display teammates currently on leave
+![image](https://github.com/user-attachments/assets/f2167ea5-3e20-44d7-a789-b31c3e7447b1)
 
 ### 3. Leave Application
 - [ ] Select leave type
 - [ ] Apply for full-day / half-day
 - [ ] Attach document (medical, etc.)
 - [ ] Submit and track status
+![image](https://github.com/user-attachments/assets/df5029d9-2239-4667-b5ee-bdab1c76b66f)
 
 ### 4. Approval Workflow
 - [ ] Approver receives notification
 - [ ] Stafs receives notification when their leaves approved/rejected
 - [ ] Approver can approve/reject with comment
 
-### 5. Leave Balance Management (cron job schedules)
+![image](https://github.com/user-attachments/assets/2a60235a-dfff-42a6-8a42-1ed8cf1d67db)
+
+
+### 5. Leave Balance Management (cron job schedules using spring boot schedule)
 - [ ] Check auto-accrual calculation
 - [ ] Carry forward up to 5 days
 - [ ] Admin makes manual adjustment
+![image](https://github.com/user-attachments/assets/afad5e54-0256-4750-a9a1-7378f327392f)
+![image](https://github.com/user-attachments/assets/54008bd5-b28c-400e-aacf-9d5e575ea7ab)
+![image](https://github.com/user-attachments/assets/66fb2cee-f61d-429f-b86a-0362d4fd0c39)
+
 
 ### 6. Admin Panel
 - [ ] Manage leave types
 - [ ] Manager Department
 - [ ] View department calendars
 - [ ] Generate reports (Excel)
+![image](https://github.com/user-attachments/assets/bc399484-93ac-41b7-8a57-fd92e27ec436)
+![image](https://github.com/user-attachments/assets/49b7f278-681a-4b42-9d47-22044c1d15c4)
+![image](https://github.com/user-attachments/assets/d93c8bf5-036a-4e6f-bd9a-78f7accf31b9)
+![image](https://github.com/user-attachments/assets/6084b7f5-20d0-4aad-bc77-7fc3695106a5)
+
+
+
 
 ### 7. Notifications
 - [ ] Email and/or in-app alerts on all leave lifecycle events
