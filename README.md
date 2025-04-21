@@ -3,7 +3,7 @@
 This project is a full Leave Management System built as part of a coding assessment. It includes:
 
 - **Backend**: Java Spring Boot (AI-first development using Cursor)
-- **Frontend**: Angular Lovable frontend framework
+- **Frontend + Tailwind**: Angular Lovable frontend framework
 - **Authentication**: Google Login (used instead of Microsoft Authenticator due to account limitations)
 - **Dockerized setup** for seamless deployment and testing
 
