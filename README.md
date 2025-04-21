@@ -28,7 +28,7 @@ leave-management-docker/
 - `.env` file with necessary environment variables (see below)
 
 ### Project Setup
-1. Clone repostory `https://github.com/valens10/lms-dockerHub-documentation-.git`
+1. Clone repostory `git clone https://github.com/valens10/lms-dockerHub-documentation-.git`
 2. cd `lms-dockerHub-documentation`
 
 ### 💠 Environment Variables (`.env`)
