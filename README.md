@@ -152,7 +152,6 @@ This will stop all containers and remove associated volumes.
 ![image](https://github.com/user-attachments/assets/0fa63097-11eb-40f8-9aa3-b9d6078576f3)
 
 - [ ] Avatar (Google profile picture) is loaded
-![image](https://github.com/user-attachments/assets/a87bfaec-b307-422b-aee6-131d8a3afb0c)
 
 
 ### 2. Dashboard
@@ -173,6 +172,7 @@ This will stop all containers and remove associated volumes.
 - [ ] Approver can approve/reject with comment
 
 ![image](https://github.com/user-attachments/assets/2a60235a-dfff-42a6-8a42-1ed8cf1d67db)
+![image](https://github.com/user-attachments/assets/924ec721-94c2-481c-9717-01ceb25ea2f1)
 
 
 ### 5. Leave Balance Management (cron job schedules using spring boot schedule)
@@ -194,6 +194,10 @@ This will stop all containers and remove associated volumes.
 ![image](https://github.com/user-attachments/assets/d93c8bf5-036a-4e6f-bd9a-78f7accf31b9)
 ![image](https://github.com/user-attachments/assets/6084b7f5-20d0-4aad-bc77-7fc3695106a5)
 
+
+### 2. Staff Dashboard
+![image](https://github.com/user-attachments/assets/4aee725a-09fd-4125-963e-ab5bcb10ed65)
+![image](https://github.com/user-attachments/assets/8905e2af-a516-47a3-b3da-e7808ad7af81)
 
 
 
