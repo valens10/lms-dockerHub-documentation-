@@ -19,6 +19,7 @@ services:
       retries: 5
 
   backend:
+    platform: linux/amd64
     image: valens10/leave-management-backend:latest
     container_name: leave_management_backend
     depends_on:
@@ -48,6 +49,7 @@ services:
     restart: always
 
   frontend:
+    platform: linux/amd64
     image: valens10/leave-management-frontend:latest
     ports:
       - "4200:80"
